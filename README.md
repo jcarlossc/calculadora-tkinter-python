@@ -6,6 +6,8 @@ Tkinter: é a biblioteca padrão do Python para a criação de interfaces gráfi
 
 Venv: ambiente virtual em Python isola dependências do projeto, evitando conflitos com pacotes globais do sistema. Ele permite que cada projeto tenha suas próprias bibliotecas e versões específicas.
 
+<img src="img_calc/calculadora.png" alt="Calculadora">
+
 ## Ferramentas utilizadas:
 * Linguagem de programação Python 3.9.13.
 * Ambiente virtual VENV.
